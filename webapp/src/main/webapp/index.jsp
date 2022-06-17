@@ -60,7 +60,7 @@
         <p>Already have an account? <a href="#">Sign in</a>.</p>
       </div>
 
-      <h1>Thankyou, have fun</h1>
+      <h1>Thankyou, have fun colore cazzo</h1>
     </form>
   </body>
 </html>
