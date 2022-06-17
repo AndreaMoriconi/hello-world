@@ -18,7 +18,7 @@
 
     <title>Document</title>
   </head>
-  <body bgcolor="green">
+  <body style='background-color: green;'>
     <form action="action_page.jsp">
       <div class="container">
         <h1>New user Register for DevOps supercoolinfrastructurreee</h1>
